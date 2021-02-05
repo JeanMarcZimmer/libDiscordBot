@@ -1,3 +1,7 @@
+# Fork
+This is a fork of [Tostc's repo](https://github.com/tostc/libDiscordBot). It is intented to make the library more flexible and easier to integrate into larger software. However, it will require much more code to get a bare bot running.  
+Below is the original ReadMe.
+
 # libDiscordBot
 libDiscordBot is an easy-to-use C++ library which helps you to create quickly a Discord bot. It's inspired by [Discord.Net](https://github.com/discord-net/Discord.Net) for C#.
 
